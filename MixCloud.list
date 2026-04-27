@@ -8,4 +8,6 @@ DOMAIN-KEYWORD,mitce
 DOMAIN-KEYWORD,cshjc
 DOMAIN-SUFFIX,crush91.cc
 DOMAIN-SUFFIX,viking-links.tech
-DOMAIN-KEYWORD,akile
+## DOMAIN-KEYWORD,akile
+DOMAIN-SUFFIX,akile.ai
+DOMAIN-SUFFIX,akile.io
