@@ -3,12 +3,10 @@ DOMAIN-SUFFIX,ofca.gov.hk
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,samknows.com
 DOMAIN-SUFFIX,ping0.cc
-
 # Speedtest 官网及接口
-- DOMAIN-KEYWORD,speedtest
-- DOMAIN-SUFFIX,ooklaserver.net
-- DOMAIN-SUFFIX,speedtest.net
-
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speedtest.net
 # Fast.com (Netflix 提供的测速，常用于测试 Hysteria2 的流媒体能力)
-- DOMAIN-SUFFIX,fast.com
-- DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.com
