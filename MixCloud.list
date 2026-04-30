@@ -14,5 +14,6 @@ DOMAIN-SUFFIX,akile.ai
 DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,acck.io
 DOMAIN-SUFFIX,acck.ai
+## 住宅ip
 DOMAIN-SUFFIX,talordata.com
 IP-CIDR6,2606:4700:3033::ac43:c2d8/128
