@@ -21,3 +21,5 @@ IP-CIDR6,2606:4700:3033::ac43:c2d8/128
 DOMAIN,nhkl.0000285.xyz
 ## 核云
 DOMAIN-SUFFIX,heyunidc.cn
+## 红杏云
+DOMAIN-SUFFIX,hongxing.one
