@@ -4,3 +4,5 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN,youtube.googleapis.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtu.be
+DOMAIN,i.ytimg.com
+DOMAIN,redirector.googlevideo.com
